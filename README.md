@@ -44,4 +44,8 @@ These results indicate that the model performs well on classifying movie reviews
 - The training loss (0.1851) is slightly lower than the validation loss (0.2352), which is expected because the model is usually more accurate on the data it was trained on. The small gap indicates that the model is not significantly overfitting.
 - Overall, the model is performing well with high accuracy and reasonable loss values, suggesting it's making good predictions on both the training and validation sets after just 1 epoch.
 
+## Links 
+- https://huggingface.co/A790227
+- https://colab.research.google.com/github/A790227/data-project-llm/blob/main/untitled0.ipynb
+
 
